@@ -33,3 +33,9 @@ State acts like 'nourishment', and whenever the state (nourishment) changes, the
 - Learned about the React folder structure which consists of **node_modules, public, src**.
 - The **src** folder is the most important folder in a React application. It contains the most important code files of the application such as `index.js`.
 - The `index.js` file sends all its data to an `index.html` file, which is available in the public folder, in order to render the application on a browser.
+
+### SnapShot
+
+![Screenshot 2025-04-28 142629](https://github.com/user-attachments/assets/44d22cf3-bc43-4177-95af-3d2325defb77)
+
+## Thank you !!
